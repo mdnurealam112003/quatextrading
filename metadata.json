@@ -1,0 +1,6 @@
+{
+  "name": "Quotex Predictor AI",
+  "description": "AI-powered tool to analyze Quotex screenshot charts, detect candlestick patterns, and predict binary options trading signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
